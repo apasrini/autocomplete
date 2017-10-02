@@ -1,0 +1,14 @@
+{
+  "name": "suggest_cities",
+  "plural": "suggest_cities",
+  "base": "PersistedModel",
+  "idInjection": true,
+  "options": {
+    "validateUpsert": true
+  },
+  "properties": {},
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": {}
+}

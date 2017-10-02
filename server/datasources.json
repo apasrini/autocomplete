@@ -1,0 +1,22 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "suggest_cities": {
+    "name": "suggest_cities",
+    "connector": "suggest_cities"
+  },
+  "city": {
+    "name": "city",
+    "localStorage": "",
+    "file": "",
+    "connector": "memory"
+  },
+  "citi": {
+    "name": "citi",
+    "localStorage": "",
+    "file": "",
+    "connector": "memory"
+  }
+}
