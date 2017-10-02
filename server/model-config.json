@@ -38,14 +38,6 @@
   "Message": {
     "dataSource": null
   },
-  "city": {
-    "dataSource": "db",
-    "public": true
-  },
-  "citir": {
-    "dataSource": "citi",
-    "public": true
-  },
   "suggest_cities": {
     "dataSource": "suggest_cities",
     "public": true
